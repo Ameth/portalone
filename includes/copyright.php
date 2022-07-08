@@ -1,0 +1,1 @@
+Todos los derechos reservados &copy; <?php echo date('Y');?><br>Desarrollado por NEDUGA TECH S.A.S.<br><a href="https://www.nedugatech.com" target="_blank">www.nedugatech.com</a>
